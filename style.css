@@ -1,0 +1,25 @@
+
+.square{
+    background-color:rgb(209, 37, 37);
+    border: 2px solid;
+    border-color: red;
+    display: flex;
+   flex-direction: column;
+}
+
+h1{
+    color:rgb(241, 241, 17);
+}
+h2{
+    color:aliceblue;
+}
+.square1{
+    background-color:rgb(241, 241, 17);
+    color: blueviolet;
+    display: flex;
+    justify-content: center;
+    font-size: 22px;
+    margin-bottom: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
